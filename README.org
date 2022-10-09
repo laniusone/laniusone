@@ -1,0 +1,14 @@
+#+title: Lanius One
+
+Hi there, my name is Lanius (well, not actually) and I do some stuff on the internet. I do some coding as a hobby, and also way more coding as a job.
+
+I use Linux, I like Linux, I talk about Linux, but also about programming and software in general.
+
+I have some public repos here, but except for [[https://github.com/laniusone/kyotonight.vim][kyotonight.vim]], they are outdated or were created only to contribute to something.
+
+*** My links
+- [[https://lanius.one/][lanius.one]]
+- [[https://www.youtube.com/channel/UCYEVEs98gYLjVqfpzngnhaw/featured][YouTube]]
+- [[https://open.spotify.com/show/6ONdVXRzhcNKQmo5JVAQW3][voidCAST]]
+- [[https://mastodon.technology/web/@laniusone][Mastodon]]
+- [[https://twiter.com/laniusone][Twitter]]
