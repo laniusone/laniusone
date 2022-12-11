@@ -12,3 +12,7 @@ I have some public repos here, but except for [[https://github.com/laniusone/kyo
 - [[https://open.spotify.com/show/6ONdVXRzhcNKQmo5JVAQW3][voidCAST]]
 - [[https://mastodon.technology/web/@laniusone][Mastodon]]
 - [[https://twiter.com/laniusone][Twitter]]
+
+#+begin_export HTML
+<link rel="me" href="https://fosstodon.org/@lanius">Mastodon</a>
+#+end_export
