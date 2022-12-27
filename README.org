@@ -4,7 +4,7 @@ Hi there, my name is Lanius (well, not actually) and I do some stuff on the inte
 
 I use Linux, I like Linux, I talk about Linux, but also about programming and software in general.
 
-I have some public repos here, but except for [[https://github.com/laniusone/kyotonight.vim][kyotonight.vim]], they are outdated or were created only to contribute to something.
+I have some public repos here, but except for [[https://github.com/voidekh/kyotonight.vim][kyotonight.vim]] and [[https://github.com/voidekh/SigmaVimRc][SigmaVimRc]], they are outdated or were created only to contribute to something.
 
 *** My links
 - [[https://lanius.one/][lanius.one]]
