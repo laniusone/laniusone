@@ -1,15 +1,7 @@
 #+title: Lanius One
 
-Hi there, my name is Lanius (well, not actually) and I do some stuff on the internet. I do some coding as a hobby, and also way more coding as a job.
+*My stuff has moved here*:
+- [[https://github.com/voidekh/][voidekh]]
+- [[https://github.com/wmwnuk][wmwnuk]]
 
-I use Linux, I like Linux, I talk about Linux, but also about programming and software in general.
-
-I have some public repos here, but except for [[https://github.com/voidekh/kyotonight.vim][kyotonight.vim]] and [[https://github.com/voidekh/SigmaVimRc][SigmaVimRc]], they are outdated or were created only to contribute to something.
-
-*** My links
-- [[https://lanius.one/][lanius.one]]
-- [[https://www.youtube.com/channel/UCYEVEs98gYLjVqfpzngnhaw/featured][YouTube]]
-- [[https://open.spotify.com/show/6ONdVXRzhcNKQmo5JVAQW3][voidCAST]]
-- [[https://mastodon.technology/web/@laniusone][Mastodon]]
-- [[https://twiter.com/laniusone][Twitter]]
-
+There is nothing new going to happen on this account.
